@@ -1,5 +1,11 @@
-# Predicting_house_prices
-Repository of Machine Learning model with house price prediction.
+Predicting House Prices
+This repository houses a Machine Learning model designed for predicting house prices.
 
-Application of skills that I have been learning for last 10 months
-In this project I focused myself on applying linear regression with some adjustments......
+It serves as a culmination of the skills I've diligently honed over the past 10 months, showcasing my proficiency in the field.
+
+While the repository contains comprehensive parts dedicated to detecting outliers and missing variables, they are conveniently available for skipping to streamline your exploration.
+
+
+
+
+
